@@ -1,0 +1,37 @@
+{
+  "name": "git-react-1",
+  "version": "1.0.0",
+  "description": "The React Project by Teja.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teja-Pintu1998/React-GIT.git"
+  },
+  "keywords": [],
+  "author": "Teja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teja-Pintu1998/React-GIT/issues"
+  },
+  "homepage": "https://github.com/Teja-Pintu1998/React-GIT#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.1"
+  },
+  "browserslist": [
+    "last 5 versions"
+  ]
+}
